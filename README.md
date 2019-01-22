@@ -12,7 +12,7 @@ I’ve even added a Tray Tip so its easy to tell if this is running or not.
 + Great workaround for enforced IT Policy
 
 ## Installation
-1. Download and install AutoHoyKey from here https://autohotkey.com/download/
+1. Download and install AutoHotKey from here https://autohotkey.com/download/
 2. Download AutoHotKey-ScreenSaverPrevention.ahk from this repository
 3. Double click the ahk file to start the script
 4. Press Ctrl+5 to toggle on/off Screen Saver Prevention
